@@ -2,8 +2,8 @@
 
 ```mermaid
 
-  flowchart TD
+  flowchart LR
     Codat --> Docs
     Docs --> Diagrams
-    Diagrams --> FTW
+    Diagrams --> Profit
 ```
