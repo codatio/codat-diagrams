@@ -5,5 +5,4 @@
   flowchart LR
     Codat --> Docs
     Docs --> Diagrams
-    Diagrams --> Profit
 ```
